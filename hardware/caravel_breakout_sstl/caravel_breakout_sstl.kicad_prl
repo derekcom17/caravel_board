@@ -62,11 +62,11 @@
       35,
       36
     ],
-    "visible_layers": "000bcff_80000001",
+    "visible_layers": "000bc00_80000001",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "caravel_breakout_QFN.kicad_prl",
+    "filename": "caravel_breakout_sstl.kicad_prl",
     "version": 3
   },
   "project": {
